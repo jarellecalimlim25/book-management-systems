@@ -61,3 +61,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> 659def3 (Initial commit: converted Student CRUD to Book CRUD)
+
+
+#Book Management_Screenshot
+<img width="960" height="470" alt="Screenshot 2026-03-21 231517" src="https://github.com/user-attachments/assets/506dfee9-c130-4467-a28b-70a8b0d2c75c" />
+<img width="950" height="470" alt="Screenshot 2026-03-21 231457" src="https://github.com/user-attachments/assets/7c6c91ca-f5ac-4aa9-bd4b-b34a3179f67f" />
+<img width="960" height="469" alt="Screenshot 2026-03-21 231442" src="https://github.com/user-attachments/assets/74d761c2-420e-4080-822a-37829649835a" />
+<img width="960" height="397" alt="Screenshot 2026-03-21 231410" src="https://github.com/user-attachments/assets/39d3fb97-33b7-4088-855a-485dee7edc07" />
+<img width="960" height="472" alt="Screenshot 2026-03-21 231342" src="https://github.com/user-attachments/assets/c5df7a05-c102-44f3-b724-08675b8c737d" />
+<img width="960" height="473" alt="Screenshot 2026-03-21 231326" src="https://github.com/user-attachments/assets/e3668958-eb9a-4c9e-b68c-cdecd86a3cee" />
+<img width="958" height="473" alt="Screenshot 2026-03-21 230424" src="https://github.com/user-attachments/assets/0106e44a-fa59-4923-9382-13e36fbefd44" />
+

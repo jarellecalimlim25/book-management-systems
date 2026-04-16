@@ -11,7 +11,10 @@ return Application::configure(basePath: dirname(__DIR__))
         health: '/up',
     )
     ->withMiddleware(function (Middleware $middleware): void {
-        //
+        $middleware->alias([
+            'admin.only' => \App\Http\Middleware\AdminOnly::class,
+            'check.ownership' => \App\Http\Middleware\CheckOwnership::class,
+        ]);
     })
     ->withExceptions(function (Exceptions $exceptions): void {
         //
